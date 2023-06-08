@@ -193,8 +193,8 @@
     "express": "^4.16.4",
     "react": ">=16.8",
     "react-dom": ">=16.8",
-    "react-helmet": "5",
-    "react-router-dom": "^5.1.2",
+    "react-helmet": "6.1.0",
+    "react-router-dom": "^5.2.0",
     "webpack": "4",
     "webpack-cli": "3"
   },
